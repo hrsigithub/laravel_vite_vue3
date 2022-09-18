@@ -70,3 +70,5 @@ https://reffect.co.jp/laravel/laravel9_vite
 
 npm install @vitejs/plugin-vue --save-dev
 は何故いるのか？
+
+画像表示は絶対パスか相対パスで違うので注意
